@@ -8,7 +8,7 @@ using System.Threading.Tasks;
   {
       static void Main(string[] args)
       {
-        Console.WriteLine("Hello Edward"); //a semi-colon indicates the end of a line of code. This line writes to the screen
+        Console.WriteLine("Hello Edward!"); //a semi-colon indicates the end of a line of code. This line writes to the screen
             /*This is a multi line comment
              * This is another line in that comment. We only need closing tags for multi-line comments, not single line*/
            
