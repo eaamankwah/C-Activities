@@ -1,2 +1,2 @@
-# C-Activities
+# C-Sharp-Activities
 C# programs
