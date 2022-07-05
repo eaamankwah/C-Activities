@@ -6,6 +6,7 @@ The program calculates the distance of 2 points from the origin, as well as from
 The distance between 2 points can be calculated using the formula:
 
 https://www.mathsisfun.com/algebra/distance-2-points.html
+
 https://www.youtube.com/watch?v=CWUr6Jo6tag
 
 Reading the coordinates of 2 2D points from the user. A point is represented by its x, y coordinates. The program
